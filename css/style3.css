@@ -1,0 +1,149 @@
+#contenedor{
+	width: 1000px;
+	height: 1675px;
+	margin: auto;
+	position: relative;
+	border:solid;
+	border-radius: 10px;
+	border-color: #005883;
+
+}
+.barra{
+	margin: auto;
+}
+body{
+	background-image: url(../img/fondo.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+h2{
+	font-family: verdana;
+	color:#005883;
+	margin-left:20px;
+	font-size: 20px;
+	text-align: center;
+}
+h1{
+	font-family: verdana;
+	color:#005883;
+	font-size: 25px;
+}
+p{
+	text-align: auto;
+	float:auto;
+	float:top;
+	width: auto;
+	padding: 0px;
+	margin: 0px;
+	text-align:auto;
+	text:auto;
+}
+h5{
+
+	text-align: center;
+	padding-top: 40px;
+}
+header{
+	width: 1000px;
+	height: 156px;
+	background:#ffffff;
+	border:solid;
+	border-radius: 10px;
+	border-color: #005883; 
+}
+.barra{
+	padding-top: 35px;
+	padding-left: 40px;
+}
+nav{
+	width: 1000px;
+	margin: 0px;
+	color: #ffffff;
+}
+.entrada{	
+	height: 50px;
+	background:#005883;
+	border:solid;
+	border-radius: 10px;
+	border-color: #005883; 
+}
+ul{
+	margin: auto;
+	padding-top: 0px;
+}
+li{
+	float: left;
+	list-style-type: none;
+	padding-left: 50px;
+	padding-top: 10px;
+	margin: 4px;
+}
+a{
+	text-decoration: none;
+	color: #ffffff;
+	font-size: 20px;
+	padding-left: 30px;
+}
+table{
+	padding: center;
+}
+section{
+
+	width: 700px;
+	background: white;
+	height: 1130px;
+	float:left;
+    margin-top: 20px;
+    border-radius: 10px; 
+	border-top-right-radius: 0;
+	border-top-left-radius: 0;
+	padding: 5px;
+}
+.margenes{
+	width: 250px;
+	margin: 0px;
+	padding: 0px;
+}
+
+aside{
+	width: 270px;
+	background: #808080;
+	height: 1130px;
+	float:left;
+	margin-left: 20px;
+    margin-top: 20px;
+    border-radius: 10px; 
+	border-top-right-radius: 0;
+	border-top-left-radius: 0;
+}
+footer{
+
+	width: 1000px;
+	height: 100px;
+	background: white;
+	float:left;
+	margin-top: 20px;
+	border-radius: 10px; 
+	border-top-right-radius: 0;
+	border-top-left-radius: 0;
+	margin-bottom: 20px;
+}
+#sellos{
+	padding-top:10px;
+	align-content: center;
+	text-align: center; 
+	
+}
+b{
+	text-align: justify;
+	font-size: 14px;
+	padding: 5px
+}
+br{
+	clear: both;
+}
+.documentos{
+	text-align: left;
+	text-decoration-color: black;
+	list-style-image: 
+}
