@@ -1,6 +1,6 @@
 #contenedor{
 	width: 1000px;
-	height: 1300px;
+	height: 1310px;
 	margin: auto;
 	position: relative;
 	border:solid;
@@ -110,7 +110,7 @@ section{
 
 	width: 700px;
 	background: white;
-	height: 765px;
+	height: 775px;
 	float:left;
     margin-top: 20px;
     border-radius: 10px; 
@@ -126,7 +126,7 @@ section{
 aside{
 	width: 280px;
 	background: #ffffff;
-	height: 765px;
+	height: 775px;
 	float:left;
 	margin-left: 20px;
     margin-top: 20px;
